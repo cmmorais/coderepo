@@ -1,5 +1,23 @@
 # Changelog
 
+## [3.0.0](https://github.com/cmmorais/coderepo/compare/v2.0.0...v3.0.0) (2025-12-15)
+
+
+### ⚠ BREAKING CHANGES
+
+* Update doc_file - Copy.txt
+
+### Bug Fixes
+
+* Update doc_file ([bf412ff](https://github.com/cmmorais/coderepo/commit/bf412fff7c4cada080d01509f0fc223eecfc46d1))
+* Update doc_file - Copy.txt ([5305ab9](https://github.com/cmmorais/coderepo/commit/5305ab9dbfc31175b5123a1c83b12cbca0124dfb))
+* Update doc_file.txt ([632aa5a](https://github.com/cmmorais/coderepo/commit/632aa5aec92747d7b6793fc22af25c04697b5574))
+* Update hello - Copy.py ([7b9c393](https://github.com/cmmorais/coderepo/commit/7b9c3931b448b1061a70b53168ffb64d07b9fa2a))
+* Update hello file for jellyfish lovers ([924a43e](https://github.com/cmmorais/coderepo/commit/924a43e0af9b1fa66b9c59a4719322f8e23b6f3a))
+* Update hello.py ([baca26a](https://github.com/cmmorais/coderepo/commit/baca26a3056e857eee273af5a96135cd4ba59780))
+* Update release-please-config.json ([5b12e2c](https://github.com/cmmorais/coderepo/commit/5b12e2ce7aa12c8b6b271cf0f23011190e377d63))
+* Update release-please.yml ([38218ee](https://github.com/cmmorais/coderepo/commit/38218eed69097e080f622746b855ac235758316b))
+
 ## [2.0.0](https://github.com/cmmorais/coderepo/compare/v1.1.0...v2.0.0) (2025-12-15)
 
 
