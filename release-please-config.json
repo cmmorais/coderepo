@@ -1,0 +1,17 @@
+{
+  "release-type": "simple",
+  "separate-pull-requests": false,
+  "bump-minor-pre-major": true,
+  "changelog-sections": [
+    {"type": "feat", "section": "🎉 New Features"},
+    {"type": "fix", "section": "🐛 Bug Fixes"},
+    {"type": "perf", "section": "⚡ Performance Improvements"},
+    {"type": "deps", "section": "📦 Dependency Updates"},
+    {"type": "docs", "section": "📚 Documentation", "hidden": false},
+    {"type": "chore", "section": "🔧 Maintenance", "hidden": true},
+    {"type": "test", "section": "✅ Tests", "hidden": true}
+  ],
+  "pull-request-title-pattern": "chore: release ${component} ${version}",
+  "pull-request-header": "🚀 **Release Time!** This PR contains the next release for our project.",
+  "pull-request-footer": "---\n\nThis PR was generated automatically by Release Please. 🤖"
+}
