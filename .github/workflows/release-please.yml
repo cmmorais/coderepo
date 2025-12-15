@@ -1,7 +1,7 @@
 on:
   push:
     branches:
-      - main
+      - dev
 
 permissions:
   contents: write
@@ -18,3 +18,4 @@ jobs:
         with:
           token: ${{ secrets.MY_RELEASE_PLEASE_TOKEN }}
           release-type: simple
+          target-branch: main
