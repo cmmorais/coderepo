@@ -1,5 +1,5 @@
 {
-  "pull-request-title-pattern": "NEW RELEASE - Version ${version}",
+  "release-pr-title-pattern": "NEW RELEASE - Version ${version}",
   "changelog-sections": [
   {
       "type": "feat",
@@ -15,3 +15,4 @@
   "release-label": "autorelease: released",
   "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json"
 }
+
