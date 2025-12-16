@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.3.0](https://github.com/cmmorais/coderepo/compare/v2.2.0...v2.3.0) (2025-12-16)
+
+
+### Features
+
+* New feature woooooow ([295b22f](https://github.com/cmmorais/coderepo/commit/295b22f67d922a154306691d457e115754055431))
+
+
+### Bug Fixes
+
+* forgot about this ([e027031](https://github.com/cmmorais/coderepo/commit/e0270313842d401ddd7a60095e46b41fa211bf06))
+
 ## [2.2.0](https://github.com/cmmorais/coderepo/compare/v2.1.1...v2.2.0) (2025-12-16)
 
 
