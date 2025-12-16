@@ -1,5 +1,4 @@
 {
   "release-type": "simple",
-  "default-branch": "main"
+  "pull-request-title-pattern": "RELEASE ${version}"
 }
-
