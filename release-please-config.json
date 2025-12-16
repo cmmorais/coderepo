@@ -3,9 +3,21 @@
   "packages": {
     ".": {
       "pull-request-title-pattern": "RELEASE GO GO GO${scope}: send it v${version}",
-      "pull-request-header": "THIS IS THE BEST RELEASE EVEEEEEERRRRR"
+      "pull-request-header": "THIS IS THE BEST RELEASE EVEEEEEERRRRR",
+      "label": "autorelease: waiting release",
+      "release-label": "autorelease: released",
+      "changelog-sections": [
+        {"type": "feat", "section": "🎉 New Features"},
+        {"type": "fix", "section": "🐛 Bug Fixes"},
+        {"type": "perf", "section": "⚡ Performance Improvements"},
+        {"type": "deps", "section": "📦 Dependency Updates"},
+        {"type": "docs", "section": "📚 Documentation", "hidden": false},
+        {"type": "chore", "section": "🔧 Maintenance", "hidden": true},
+        {"type": "test", "section": "✅ Tests", "hidden": true}
+      ]
     }
   }
 }
+
 
 
