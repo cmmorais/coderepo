@@ -4,7 +4,7 @@
   "release-label": "autorelease: released",
   "packages": {
     ".": {
-      "pull-request-title-pattern": "Current Release: v${version}",
+      "pull-request-title-pattern": "Release: v${version}",
       "pull-request-header": "🚀 **Release Time!** This PR contains the next release for our project.",
       "changelog-sections": [
         {"type": "feat", "section": "🎉 New Features"},
@@ -18,6 +18,7 @@
     }
   }
 }
+
 
 
 
