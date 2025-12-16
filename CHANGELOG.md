@@ -1,5 +1,13 @@
 # Changelog
 
+## [2.1.1](https://github.com/cmmorais/coderepo/compare/v2.1.0...v2.1.1) (2025-12-16)
+
+
+### Bug Fixes
+
+* Merge pull request [#39](https://github.com/cmmorais/coderepo/issues/39) from cmmorais/dev ([0c46d42](https://github.com/cmmorais/coderepo/commit/0c46d4245cda3760b32c4119d180b3d23fbdb60b))
+* this code sucks ([24c3135](https://github.com/cmmorais/coderepo/commit/24c3135ac642012ffe76878e516b3b0a6143bf6c))
+
 ## [2.1.0](https://github.com/cmmorais/coderepo/compare/v2.0.1...v2.1.0) (2025-12-16)
 
 
