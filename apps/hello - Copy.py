@@ -1,2 +1,2 @@
 # This program prints Hello, world!
-print('Hello, world!New change in dev too')
+print('Hello, world!New change in dev')
