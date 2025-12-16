@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.1.0](https://github.com/cmmorais/coderepo/compare/v2.0.1...v2.1.0) (2025-12-16)
+
+
+### Features
+
+* this is a commit message ([98a21cf](https://github.com/cmmorais/coderepo/commit/98a21cfa3a55e1453059dcfe96ecd4e5b0781ead))
+
 ## [2.0.1](https://github.com/cmmorais/coderepo/compare/v2.0.0...v2.0.1) (2025-12-16)
 
 
