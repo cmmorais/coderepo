@@ -1,7 +1,6 @@
 {
-  "pull-request-title-pattern": "RELEASE ${version}",
-  "packages": {
-    ".": {}
-  }
+  "group-pull-request-title-pattern": "RELEASE ${version}",
+  "draft": true
 }
+
 
