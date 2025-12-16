@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.0.1](https://github.com/cmmorais/coderepo/compare/v3.0.0...v3.0.1) (2025-12-16)
+
+
+### Bug Fixes
+
+* Deleted file ([8b7db23](https://github.com/cmmorais/coderepo/commit/8b7db234aa39038d7e5a90713e5eb94e85fa4a2c))
+
 ## [3.0.0](https://github.com/cmmorais/coderepo/compare/v2.3.1...v3.0.0) (2025-12-16)
 
 
