@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.3.1](https://github.com/cmmorais/coderepo/compare/v2.3.0...v2.3.1) (2025-12-16)
+
+
+### Bug Fixes
+
+* Im a new fix ([92c4aa0](https://github.com/cmmorais/coderepo/commit/92c4aa0906ef8f1e4b230b4319f59f043b751909))
+
 ## [2.3.0](https://github.com/cmmorais/coderepo/compare/v2.2.0...v2.3.0) (2025-12-16)
 
 
