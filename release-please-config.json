@@ -1,4 +1,7 @@
 {
-  "release-type": "simple",
-  "pull-request-title-pattern": "RELEASE ${version}"
+  "pull-request-title-pattern": "RELEASE ${version}",
+  "packages": {
+    ".": {}
+  }
 }
+
