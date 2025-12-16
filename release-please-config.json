@@ -1,6 +1,8 @@
 {
-  "group-pull-request-title-pattern": "RELEASE ${version}",
-  "draft": true
+  "release-type": "simple",
+  "packages": {
+    ".": {
+      "pull-request-title-pattern": "RELEASE${scope}: send it v${version}"
+    }
+  }
 }
-
-
