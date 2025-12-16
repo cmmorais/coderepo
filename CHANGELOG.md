@@ -1,5 +1,21 @@
 # Changelog
 
+## [3.0.0](https://github.com/cmmorais/coderepo/compare/v2.3.1...v3.0.0) (2025-12-16)
+
+
+### ⚠ BREAKING CHANGES
+
+* Deleted apps/newfix.py
+
+### Features
+
+* Deleted apps/newfix.py ([3411a48](https://github.com/cmmorais/coderepo/commit/3411a48578afd6db78da8777bce0271ac6783d88))
+
+
+### Bug Fixes
+
+* new PR ([63338c0](https://github.com/cmmorais/coderepo/commit/63338c0ced9e3f401261834929656099697ca8f1))
+
 ## [2.3.1](https://github.com/cmmorais/coderepo/compare/v2.3.0...v2.3.1) (2025-12-16)
 
 
