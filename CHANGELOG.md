@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/cmmorais/coderepo/compare/v1.1.0...v2.0.0) (2025-12-16)
+
+
+### ⚠ BREAKING CHANGES
+
+* This fix will prevent stuf from breaking
+
+### 🐛 Bug Fixes
+
+* This fix will prevent stuf from breaking ([257137a](https://github.com/cmmorais/coderepo/commit/257137ac4ca08ef6ad3fc645efdddec2e17ef97e))
+
 ## [1.1.0](https://github.com/cmmorais/coderepo/compare/v1.0.1...v1.1.0) (2025-12-16)
 
 
