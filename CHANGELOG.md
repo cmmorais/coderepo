@@ -1,5 +1,16 @@
 # Changelog
 
+## [2.0.0](https://github.com/cmmorais/coderepo/compare/v1.0.0...v2.0.0) (2025-12-16)
+
+
+### ⚠ BREAKING CHANGES
+
+* Update script
+
+### Bug Fixes
+
+* Update script ([1f86144](https://github.com/cmmorais/coderepo/commit/1f86144c4f599aaba3280b5db2ea7740cd056e2c))
+
 ## [1.0.0](https://github.com/cmmorais/coderepo/compare/v2.0.0...v1.0.0) (2025-12-16)
 
 
