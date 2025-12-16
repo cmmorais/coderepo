@@ -1,5 +1,18 @@
 # Changelog
 
+## [2.2.0](https://github.com/cmmorais/coderepo/compare/v2.1.1...v2.2.0) (2025-12-16)
+
+
+### Features
+
+* New feature so cool wow ([fb84637](https://github.com/cmmorais/coderepo/commit/fb8463782f4ad258865a12295218ca04ae73af99))
+* Novo teste ([dcaf470](https://github.com/cmmorais/coderepo/commit/dcaf47009b8b741cc1bb9804f427c3887021c090))
+
+
+### Bug Fixes
+
+* Arranja isto ja ([de42ae3](https://github.com/cmmorais/coderepo/commit/de42ae38bb55819e66c146b8e45d9041792bf34a))
+
 ## [2.1.1](https://github.com/cmmorais/coderepo/compare/v2.1.0...v2.1.1) (2025-12-16)
 
 
