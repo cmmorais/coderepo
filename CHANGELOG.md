@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/cmmorais/coderepo/compare/v1.0.0...v1.0.1) (2025-12-16)
+
+
+### Bug Fixes
+
+* Remove file version.txt ([d1ba1c3](https://github.com/cmmorais/coderepo/commit/d1ba1c398608a8bf7997f74f4f2096e8f61fa5e3))
+
 ## [1.0.0](https://github.com/cmmorais/coderepo/compare/v3.0.0...v1.0.0) (2025-12-16)
 
 
