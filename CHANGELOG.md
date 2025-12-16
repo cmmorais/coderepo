@@ -1,5 +1,61 @@
 # Changelog
 
+## [3.0.0](https://github.com/cmmorais/coderepo/compare/v2.3.1...v3.0.0) (2025-12-16)
+
+
+### ⚠ BREAKING CHANGES
+
+* Deleted apps/newfix.py
+
+### Features
+
+* Deleted apps/newfix.py ([3411a48](https://github.com/cmmorais/coderepo/commit/3411a48578afd6db78da8777bce0271ac6783d88))
+
+
+### Bug Fixes
+
+* new PR ([63338c0](https://github.com/cmmorais/coderepo/commit/63338c0ced9e3f401261834929656099697ca8f1))
+
+## [2.3.1](https://github.com/cmmorais/coderepo/compare/v2.3.0...v2.3.1) (2025-12-16)
+
+
+### Bug Fixes
+
+* Im a new fix ([92c4aa0](https://github.com/cmmorais/coderepo/commit/92c4aa0906ef8f1e4b230b4319f59f043b751909))
+
+## [2.3.0](https://github.com/cmmorais/coderepo/compare/v2.2.0...v2.3.0) (2025-12-16)
+
+
+### Features
+
+* New feature woooooow ([295b22f](https://github.com/cmmorais/coderepo/commit/295b22f67d922a154306691d457e115754055431))
+
+
+### Bug Fixes
+
+* forgot about this ([e027031](https://github.com/cmmorais/coderepo/commit/e0270313842d401ddd7a60095e46b41fa211bf06))
+
+## [2.2.0](https://github.com/cmmorais/coderepo/compare/v2.1.1...v2.2.0) (2025-12-16)
+
+
+### Features
+
+* New feature so cool wow ([fb84637](https://github.com/cmmorais/coderepo/commit/fb8463782f4ad258865a12295218ca04ae73af99))
+* Novo teste ([dcaf470](https://github.com/cmmorais/coderepo/commit/dcaf47009b8b741cc1bb9804f427c3887021c090))
+
+
+### Bug Fixes
+
+* Arranja isto ja ([de42ae3](https://github.com/cmmorais/coderepo/commit/de42ae38bb55819e66c146b8e45d9041792bf34a))
+
+## [2.1.1](https://github.com/cmmorais/coderepo/compare/v2.1.0...v2.1.1) (2025-12-16)
+
+
+### Bug Fixes
+
+* Merge pull request [#39](https://github.com/cmmorais/coderepo/issues/39) from cmmorais/dev ([0c46d42](https://github.com/cmmorais/coderepo/commit/0c46d4245cda3760b32c4119d180b3d23fbdb60b))
+* this code sucks ([24c3135](https://github.com/cmmorais/coderepo/commit/24c3135ac642012ffe76878e516b3b0a6143bf6c))
+
 ## [2.1.0](https://github.com/cmmorais/coderepo/compare/v2.0.1...v2.1.0) (2025-12-16)
 
 
