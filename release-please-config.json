@@ -1,5 +1,5 @@
 {
   "release-type": "simple",
-  "default-branch": "main",
-  "manifest-file": ".release-please-manifest.json"
+  "default-branch": "main"
 }
+
