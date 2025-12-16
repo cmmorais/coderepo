@@ -1,4 +1,3 @@
 {
-  "release-type": "simple",
   "pull-request-title-pattern": "build${scope}: release${component} ${version}"
 }
