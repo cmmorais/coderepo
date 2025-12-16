@@ -1,5 +1,18 @@
 # Changelog
 
+## [3.1.0](https://github.com/cmmorais/coderepo/compare/v3.0.1...v3.1.0) (2025-12-16)
+
+
+### Features
+
+* Create hshshshshs.py ([86267b8](https://github.com/cmmorais/coderepo/commit/86267b8b335c7d52e82ef6379f916bd155714455))
+* Update hello.py ([9ae396e](https://github.com/cmmorais/coderepo/commit/9ae396e1acea8080fc661defcbead52e79b8611f))
+
+
+### Bug Fixes
+
+* Create asdad.py ([9c321ad](https://github.com/cmmorais/coderepo/commit/9c321ad2115d104e66fe216b3c2b58a9c47eb317))
+
 ## [3.0.1](https://github.com/cmmorais/coderepo/compare/v3.0.0...v3.0.1) (2025-12-16)
 
 
