@@ -1,17 +1,5 @@
 {
-  "pull-request-title-pattern": "NEW RELEASE - Version ${version}",
-  "changelog-sections": [
-  {
-      "type": "feat",
-      "section": "🚀 Features",
-      "hidden": false
-  },
-  {
-      "type": "fix",
-      "section": "🐛 Bug Fixes",
-      "hidden": false
-  }],
-  "pull-request-header": ":robot: This is a new release!",
-  "release-label": "autorelease: released",
-  "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json"
+  "release-type": "simple",
+  "default-branch": "main",
+  "manifest-file": ".release-please-manifest.json"
 }
