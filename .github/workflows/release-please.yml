@@ -20,3 +20,4 @@ jobs:
           target-branch: main
           manifest-file: .release-please-manifest.json
           release-type: simple
+          config-file: release-please-config.json
