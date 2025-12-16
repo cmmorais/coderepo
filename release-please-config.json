@@ -2,7 +2,8 @@
   "release-type": "simple",
   "packages": {
     ".": {
-      "pull-request-title-pattern": "RELEASE${scope}: send it v${version}"
+      "pull-request-title-pattern": "RELEASE GO GO GO${scope}: send it v${version}"
     }
   }
 }
+
