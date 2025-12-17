@@ -16,7 +16,7 @@
         {"type": "test", "section": "✅ Tests", "hidden": true}
       ],
       "exclude-paths": [
-        ".github"
+        "./.github"
       ]
     }
   }
