@@ -14,10 +14,14 @@
         {"type": "docs", "section": "📚 Documentation", "hidden": false},
         {"type": "chore", "section": "🔧 Maintenance", "hidden": true},
         {"type": "test", "section": "✅ Tests", "hidden": true}
+      ],
+      "exclude-paths": [
+        ".github"
       ]
     }
   }
 }
+
 
 
 
