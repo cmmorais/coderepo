@@ -8,11 +8,11 @@ permissions:
   issues: write
   pull-requests: write
 
-name: release-please
+name: Release Please
 
 jobs:
   release-please:
-    name: Release Please
+    name: Running release-please
     runs-on: ubuntu-latest
     steps:
       - uses: googleapis/release-please-action@v4
