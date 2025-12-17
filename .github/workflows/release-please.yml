@@ -12,7 +12,7 @@ name: release-please
 
 jobs:
   release-please:
-    name: Release Please - Auto Release
+    name: Release Please
     runs-on: ubuntu-latest
     steps:
       - uses: googleapis/release-please-action@v4
