@@ -1,5 +1,29 @@
 # Changelog
 
+## [2.1.0](https://github.com/cmmorais/coderepo/compare/v2.0.0...v2.1.0) (2025-12-17)
+
+
+### 🎉 New Features
+
+* Added new file to test ignore path ([830071d](https://github.com/cmmorais/coderepo/commit/830071d2dda3db99d56b2e56d8f50464c3c45c67))
+
+
+### 🐛 Bug Fixes
+
+* Improved performance removing files ([c2750e7](https://github.com/cmmorais/coderepo/commit/c2750e7aa998a18346da5d586c992e049e332037))
+
+
+### ⚡ Performance Improvements
+
+* Updated doc_file.txt to improve performance ([7d8fb3f](https://github.com/cmmorais/coderepo/commit/7d8fb3f02dde83fc34bac96dd9f365cddd65525a))
+
+
+### 📚 Documentation
+
+* changed path ([27cad8a](https://github.com/cmmorais/coderepo/commit/27cad8a55ae607f1fae36d7570b7a21c4a1b73db))
+* Update release-please-config.json ([5513366](https://github.com/cmmorais/coderepo/commit/55133661f3574b36a82086b8e76e1f2fc65a02cb))
+* Update release-please-config.json testing ignore ([8ffd1fe](https://github.com/cmmorais/coderepo/commit/8ffd1fea4bdf2d76fa67033cfefebf59138e1bde))
+
 ## [2.0.0](https://github.com/cmmorais/coderepo/compare/v1.1.0...v2.0.0) (2025-12-16)
 
 
